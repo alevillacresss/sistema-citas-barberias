@@ -1,0 +1,11 @@
+# Gradle, build output
+.gradle/
+build/
+**/build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Spring Boot
+/backend/target/
